@@ -8,7 +8,7 @@ There you will see notebooks about my projects of Data Science, Machine Learning
 
 ## Background in: 
 
-Intern at [Fundação CERTI](https://www.certi.org.br/), supporting the development of projects related to ecosystems and innovation environments. At the beginning of the journey to become a data scientist.
+Intern at [Fundação CERTI](https://www.certi.org.br/), supporting the development of projects related to ecosystems and innovation environments. At the beginning of the journey to becoming a data scientist.
 
 
 ### Projects:
